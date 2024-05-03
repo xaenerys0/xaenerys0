@@ -47,6 +47,8 @@ I am a Quality Assurance Engineer <img src="https://media.giphy.com/media/WUlplc
 ---
 
 ### :fire: My Stats :
+![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=xaenerys0&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xaenerys0&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xaenerys0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
