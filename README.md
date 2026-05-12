@@ -1,54 +1,104 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<div id="badges">
-  <a href="https://www.linkedin.com/in/andrew-t-27339a137/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-<img src="https://komarev.com/ghpvc/?username=xaenerys0&style=flat-square&color=blue" alt=""/>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+
+# Andrew T.
+
+**Quality Assurance Engineer** · United States
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-cba6f7?style=for-the-badge&logo=linkedin&logoColor=1e1e2e)](https://www.linkedin.com/in/andrew-t-27339a137/)
+[![Profile Views](https://img.shields.io/badge/dynamic/json?label=Profile%20views&query=%24.count&url=https%3A%2F%2Fkomarev.com%2Fghpvc%2F%3Fusername%3Dxaenerys0%26format%3Djson&style=for-the-badge&color=89b4fa&labelColor=1e1e2e)](https://github.com/xaenerys0)
+
 </div>
 
----
+<br>
 
-### :man_technologist: About Me :
-I am a Quality Assurance Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the US.
-- :telescope: I'm working as a Quality Assurance Engineer split between automation using Vividus, jMeter and manual testing.
+> *"Software is only as reliable as the tests that prove it."*
 
-- :seedling: Exploring different programming languages and looking for open source projects to improve my skills.
+<br>
 
-- :zap: In my free time, I tinker with different programming hobbies, play games and spend time with my family and friends.
+## About
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-t-27339a137/)
+A Quality Assurance Engineer working at the intersection of automation and exploration. I split my time between building automated suites with **Vividus** and **jMeter**, and digging into systems through deliberate manual testing.
 
----
+In quieter moments I'm exploring new languages, contributing where I can to open source, and spending time with family and friends.
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/browserstack/browserstack-original.svg" title="Browserstack" alt="Browserstack" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original.svg" title="Confluence" alt="Confluence" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" title="Pytest" alt="Pytest" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" title="YAML" alt="YAML" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" title="GitHub Actions" alt="GitHub Actions" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/circleci/circleci-plain-wordmark.svg" title="CircleCI" alt="CircleCI" width="40" height="40"/>&nbsp;
+<br>
+
+## Tech Stack
+
+<table>
+  <tr>
+    <td valign="top" width="25%">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/-Python-1e1e2e?style=flat-square&logo=python&logoColor=f9e2af)
+![JavaScript](https://img.shields.io/badge/-JavaScript-1e1e2e?style=flat-square&logo=javascript&logoColor=f9e2af)
+![C++](https://img.shields.io/badge/-C%2B%2B-1e1e2e?style=flat-square&logo=cplusplus&logoColor=89b4fa)
+![PowerShell](https://img.shields.io/badge/-PowerShell-1e1e2e?style=flat-square&logo=powershell&logoColor=89b4fa)
+![YAML](https://img.shields.io/badge/-YAML-1e1e2e?style=flat-square&logo=yaml&logoColor=cdd6f4)
+
+</td>
+    <td valign="top" width="25%">
+
+**Testing & QA**
+
+![Selenium](https://img.shields.io/badge/-Selenium-1e1e2e?style=flat-square&logo=selenium&logoColor=a6e3a1)
+![Playwright](https://img.shields.io/badge/-Playwright-1e1e2e?style=flat-square&logo=playwright&logoColor=a6e3a1)
+![Pytest](https://img.shields.io/badge/-Pytest-1e1e2e?style=flat-square&logo=pytest&logoColor=89b4fa)
+![Postman](https://img.shields.io/badge/-Postman-1e1e2e?style=flat-square&logo=postman&logoColor=fab387)
+![BrowserStack](https://img.shields.io/badge/-BrowserStack-1e1e2e?style=flat-square&logo=browserstack&logoColor=f38ba8)
+
+</td>
+    <td valign="top" width="25%">
+
+**Workflow & CI**
+
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-1e1e2e?style=flat-square&logo=githubactions&logoColor=89b4fa)
+![CircleCI](https://img.shields.io/badge/-CircleCI-1e1e2e?style=flat-square&logo=circleci&logoColor=cdd6f4)
+![Jira](https://img.shields.io/badge/-Jira-1e1e2e?style=flat-square&logo=jira&logoColor=89b4fa)
+![Confluence](https://img.shields.io/badge/-Confluence-1e1e2e?style=flat-square&logo=confluence&logoColor=89b4fa)
+
+</td>
+    <td valign="top" width="25%">
+
+**AI Assistants**
+
+![Claude](https://img.shields.io/badge/-Claude-1e1e2e?style=flat-square&logo=claude&logoColor=fab387)
+![Codex](https://img.shields.io/badge/-Codex-1e1e2e?style=flat-square&logo=openai&logoColor=cdd6f4)
+
+</td>
+  </tr>
+</table>
+
+<br>
+
+## GitHub Activity
+
+<div align="center">
+
+<a href="https://github.com/xaenerys0">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=xaenerys0&show_icons=true&hide_border=true&count_private=true&theme=catppuccin_mocha&title_color=cba6f7&icon_color=f5c2e7&text_color=cdd6f4&bg_color=1e1e2e" />
+</a>
+<a href="https://github.com/xaenerys0">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xaenerys0&layout=compact&hide_border=true&theme=catppuccin_mocha&title_color=cba6f7&text_color=cdd6f4&bg_color=1e1e2e" />
+</a>
+
+<br>
+
+<a href="https://github.com/xaenerys0">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=xaenerys0&hide_border=true&background=1e1e2e&stroke=313244&ring=cba6f7&fire=f5c2e7&currStreakLabel=cba6f7&sideLabels=cdd6f4&currStreakNum=cdd6f4&sideNums=cdd6f4&dates=a6adc8" />
+</a>
+
 </div>
 
----
+<br>
 
-### :fire: My Stats :
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=xaenerys0&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+## Contact
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xaenerys0&theme=dark&background=000000)](https://git.io/streak-stats)
+If you'd like to talk testing, automation, or just say hello —
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xaenerys0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-1e1e2e?style=for-the-badge&logo=linkedin&logoColor=cba6f7)](https://www.linkedin.com/in/andrew-t-27339a137/)
+
+<div align="center">
+  <sub>Crafted with care · Catppuccin Mocha palette</sub>
+</div>
